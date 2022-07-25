@@ -1,0 +1,2 @@
+# FakeCheatIndicator
+Self-explaining.
